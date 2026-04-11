@@ -39,6 +39,9 @@ To investigate how NIDS tools, such as Snort, Suricata, and Wazuh, detect spoofi
 
 ## Scrrenshots
 
+<img width="671" height="375" alt="screen_1" src="https://github.com/user-attachments/assets/ad5a2f07-e463-47f2-820b-6444b72c588c" />
+
+
 
 
 
