@@ -1,7 +1,7 @@
 # Testing NIDS in a maritime environment 
 
 ## Summary
-This project examines the effectiveness of Network Intrusion Detection Systems (NIDS) in detecting NMEA spoofed messages in a stimulated maritime environment. 
+This project examines the effectiveness of Network Intrusion Detection Systems (NIDS) in detecting NMEA spoofed messages in a simulated maritime environment. 
 
 ## Objective
 To investigate how NIDS tools, such as Snort, Suricata, and Wazuh, detect spoofing attacks in maritime navigation systems.
